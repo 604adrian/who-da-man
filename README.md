@@ -1,5 +1,5 @@
 This is a bash shell script that will remind you who da man whenever you are feeling down. The way it works is simple: you call the script:
-`./da-man`
+`./da-man.sh`
 and then you will be prompted to ask who da man is. At this point please say:
 `Who da man?`
 If you fail to ask who the main is, the script will prompt you again until you close the program/your computer dies/the sun explodes/etc.
