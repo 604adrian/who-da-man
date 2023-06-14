@@ -26,39 +26,49 @@ Many thanks to [this online text to ascii-art converter](https://texteditor.com/
 
 ## Installation instructions
 To install this, first clone the git repository:
+
 `git clone https://github.com/604adrian/who-da-man.git`
 
 Then go to the repository:
+
 `cd who-da-man`
 
 Then make make the script executable (if it isn't already):
+
 `chmod +x da-man.sh`
 
 Then create a symbolic link so that you can call the script even when you are out of the file:
+
 `sudo ln -s "$(pwd)/da-man.sh" /usr/local/bin/da-man.sh`
 
 Finally, you can create an alias that makes calling the script easier.
 
 ### On Linux
 Open your ~/.bashrc file with your text editor of choice (I'll use vim):
+
 `vim ~/.bashrc`
 
 Then write an alias, like (for example):
-`alias computer_do_you_love_me='da_man.sh'`
+
+`alias peekaboo='da_man.sh'`
 
 Save it, then exit the text editor. Then refresh your .bashrc file:
+
 `source ~/.bashrc`
 
 And you're done! You can now call da-man.sh from anywhere on your machine using your alias! Safe travels and remember: you da man.
 
 ### On Mac
 Open your ~/.bash_profile file with your text editor of choice (I'll use vim):
+
 `vim ~/.bash_profile`
 
 Then write an alias:
-`alias im_crying='da-man.sh'`
+
+`alias mancheck='da-man.sh'`
 
 Save it, exit the text editor, then refresh your .bash_profile file:
+
 `source ~/.bash_profile`
 
 And now you're done! You can call da-man.sh from anywhere on your machine using your alias! Have fun affirming your masculinity!
@@ -68,7 +78,7 @@ Follow the steps given [here](https://letmegooglethat.com/?q=how+to+delete+windo
 
 Then go [here](https://www.linux.org/pages/download/).
 
-Then go back to line 42 of this document.
+Then go back to line 46 of this document.
 
 ## In conclusion
 Who da man?
