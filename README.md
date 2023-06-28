@@ -5,6 +5,10 @@ Good question. This is a bash shell script that will remind you who da man whene
 `Who da man?`
 If you fail to ask who the man is, the script will prompt you again until you close the program/your computer dies/the sun explodes/etc.
 
+![da man](screep_cap.png)
+
+![da_man](screen_cap_2.png)
+
 Once you successfully ask who da man is, you will be fed entertaining ascii aristry informing you who da man really is.
 
 Then stick figures of people dancing will be echo'd to your standard output:
